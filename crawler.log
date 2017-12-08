@@ -1,0 +1,2934 @@
+[crawler] ERROR 2017-09-20 12:14:22,013 com.crawler.CrawlerTask.getNewUrl(129) http://e-nw.shac.gov.cn/xxgk/gsgg/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:14:45,885 com.crawler.CrawlerTask.getNewUrl(129) http://www.sdstc.gov.cn/gggs/index.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:14:46,699 com.crawler.CrawlerTask.getNewUrl(129) http://www.sdein.gov.cn/zxbs/gszx/jsxml_1599/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:14:51,111 com.crawler.CrawlerTask.getNewUrl(129) http://www.lnen.cn/zwgk/gsgg/index.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:15:06,437 com.crawler.CrawlerTask.getNewUrl(129) http://www.hebwh.gov.cn/whzx/index.jsp?catalogId=2c9081fb56fe48d20156fe6791e10008
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.hebwh.gov.cn:80 [www.hebwh.gov.cn/110.249.220.234] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 12:15:09,597 com.crawler.CrawlerTask.getNewUrl(129) http://www.hljwht.gov.cn/zwgk/zfxx/zxgk/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:15:12,343 com.crawler.CrawlerTask.getNewUrl(129) http://hbt.jl.gov.cn/zwgk/gwe/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:15:30,826 com.crawler.CrawlerTask.getNewUrl(129) http://www.gsep.gansu.gov.cn/smallclass.jsp?urltype=tree.TreeTempUrl&wbtreeid=1397
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 503
+[crawler] ERROR 2017-09-20 12:15:35,775 com.crawler.CrawlerTask.getNewUrl(129) http://www.jshb.gov.cn/gsgg/ggtz/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:15:36,525 com.crawler.CrawlerTask.getNewUrl(129) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 12:15:45,646 com.crawler.CrawlerTask.getNewUrl(129) http://www.ynstc.gov.cn/tzgg/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:15:52,451 com.crawler.CrawlerTask.getNewUrl(129) http://www.qhfgw.gov.cn/gzdt/tzgg/default.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.qhfgw.gov.cn:80 [www.qhfgw.gov.cn/125.72.14.88] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 12:15:58,243 com.crawler.CrawlerTask.getNewUrl(129) http://www.sxipo.gov.cn/tzgg/index.jhtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:15:58,254 com.crawler.CrawlerTask.getNewUrl(129) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 12:16:07,557 com.crawler.CrawlerTask.getNewUrl(129) http://www.sccnt.gov.cn/xxggzwxx/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 521
+[crawler] ERROR 2017-09-20 12:16:14,477 com.crawler.CrawlerTask.getNewUrl(129) http://www.gzdpc.gov.cn/col/col3492/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:16:14,547 com.crawler.CrawlerTask.getNewUrl(129) http://www.ahkjt.gov.cn/technologi/zhxw/ana/A041701index_1.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:16:15,700 com.crawler.CrawlerTask.getNewUrl(129) http://www.ahbofcom.gov.cn/XXGK/TitleList.aspx?ClassCode=820000
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:16:28,095 com.crawler.CrawlerTask.getNewUrl(129) http://www.lneic.gov.cn/lnjxw/tzgg/tzgg.html?p=1
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.net.SocketTimeoutException: Read timed out
+[crawler] ERROR 2017-09-20 12:16:29,963 com.crawler.CrawlerTask.getNewUrl(129) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 12:16:30,724 com.crawler.CrawlerTask.getNewUrl(129) http://www.tdofcom.gov.cn/zzqwj/index.jhtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 500
+[crawler] ERROR 2017-09-20 12:16:33,410 com.crawler.CrawlerTask.getNewUrl(129) http://www.xj-agri.gov.cn/tongzgg01/index.jhtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.xj-agri.gov.cn:80 [www.xj-agri.gov.cn/202.100.177.185] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:16:40,300 com.crawler.CrawlerTask.getNewUrl(129) http://www.xzgxt.gov.cn/CORAL/portal/zwgk/gkzn.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.xzgxt.gov.cn:80 [www.xzgxt.gov.cn/219.151.43.87] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 12:17:32,589 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:33,470 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:33,566 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:33,731 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:34,284 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:34,488 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:34,770 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:35,116 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:35,336 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:35,561 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:35,600 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:35,717 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:35,977 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:36,181 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:36,211 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:36,784 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:37,066 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:37,066 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:37,270 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:37,459 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:37,939 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:38,200 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:38,216 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:38,430 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:38,600 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:39,125 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:39,433 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:39,623 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:39,637 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:39,821 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:40,472 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:40,650 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:40,859 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:41,068 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:41,356 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:41,871 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:42,195 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:42,417 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:42,638 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:42,645 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:43,085 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:43,478 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:43,874 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:44,103 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:44,273 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:44,875 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:45,083 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:45,089 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:45,484 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:45,774 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:45,954 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:46,273 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:46,714 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:46,904 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:47,111 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:47,591 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:47,795 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:47,947 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:48,077 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:48,952 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:49,628 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:50,442 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:50,687 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:50,951 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:51,164 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:51,353 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:51,757 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:51,973 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:52,136 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:52,369 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:52,752 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:53,162 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:53,387 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:53,545 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:54,319 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:54,319 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:54,523 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:54,741 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:55,093 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:55,336 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:55,568 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:56,097 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:56,345 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:56,399 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:56,639 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:57,090 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:57,274 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:57,415 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:57,439 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:57,625 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:58,231 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:58,425 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:58,436 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:58,619 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:58,799 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:59,217 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:59,599 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:59,759 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:17:59,901 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:00,515 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:00,606 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:00,769 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:01,195 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:01,340 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:01,501 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:01,506 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:01,638 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:01,789 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:02,009 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:02,530 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:02,689 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:02,718 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:02,907 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:03,418 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:03,857 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:04,015 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:04,141 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:04,202 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:04,357 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:04,864 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:05,043 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:05,192 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:05,497 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:05,720 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:05,983 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:06,171 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:06,461 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:06,666 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:06,694 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:06,881 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:07,497 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:07,699 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:08,292 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:08,407 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:08,526 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:09,186 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:09,309 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:09,880 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:10,066 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:10,145 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:10,286 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:10,805 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:11,006 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:11,191 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:11,393 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:11,558 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:11,722 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:11,849 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:11,968 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:12,105 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:12,254 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:12,280 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:12,449 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:13,035 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:13,225 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:13,429 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:13,759 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:13,953 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:14,072 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:14,162 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:14,258 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:14,399 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:14,959 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:15,135 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:15,159 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:15,308 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:15,842 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:16,093 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:16,117 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:16,247 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:16,746 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:16,977 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:17,125 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:17,500 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:17,668 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:17,692 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:17,869 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:18,055 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:18,371 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:18,684 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:18,870 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:18,990 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:19,132 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:19,439 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:19,938 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:20,195 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:20,246 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:20,437 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:20,692 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:20,933 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:21,044 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:21,171 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:21,271 com.crawler.CrawlerTask.getNewUrl(129) http://www.xjedu.gov.cn/xjjyt/wjgz/wjtz/index.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.ConnectionClosedException: Premature end of Content-Length delimited message body (expected: 34830; received: 33575
+[crawler] ERROR 2017-09-20 12:18:21,432 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:21,552 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:21,723 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:21,827 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:21,860 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:21,991 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:22,248 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:22,393 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:22,619 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:22,702 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:22,761 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:22,878 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:22,994 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:23,113 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:23,326 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:23,414 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:23,539 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:23,718 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:23,956 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:24,022 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:24,239 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:24,243 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:24,373 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:24,498 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:24,835 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:24,926 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/zw/tzgg/tzgs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:25,761 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:25,784 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:25,799 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:26,020 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:26,046 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:26,054 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:26,270 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:26,308 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:26,337 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:26,609 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:26,617 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:26,621 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:26,872 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:26,877 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:26,892 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:27,163 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:27,171 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:27,199 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:27,441 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:27,449 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:27,456 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:27,704 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:27,717 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:27,723 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:28,002 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:28,003 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:28,053 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:28,357 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:28,365 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:28,365 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:28,633 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:28,638 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:28,645 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:28,863 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:28,945 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:28,945 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:29,203 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:29,216 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:29,235 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:29,463 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:29,511 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:29,534 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:29,770 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:29,787 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:29,799 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:30,030 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:30,044 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:30,078 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:30,285 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:30,358 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:30,362 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:30,536 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:30,642 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:30,642 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:30,806 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:30,869 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:30,905 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:31,089 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:31,176 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:31,188 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:31,378 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:31,426 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:31,474 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:31,723 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:31,730 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:31,757 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:31,982 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:31,992 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:32,036 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:32,227 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:32,297 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:32,372 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:32,612 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:32,665 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:32,701 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:33,099 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:33,174 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:33,185 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:33,442 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:33,451 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:33,459 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:33,860 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:33,869 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:33,869 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:34,185 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:34,197 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:34,209 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:34,534 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:34,600 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:34,616 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:35,003 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:35,056 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:35,059 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:35,305 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:35,314 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:35,343 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:35,768 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:35,784 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:36,014 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:36,174 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:36,219 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:36,359 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:36,456 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:36,604 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:36,760 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:36,945 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:37,053 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:37,150 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:37,248 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:37,350 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:37,499 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:37,652 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:37,845 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:37,933 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:38,057 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:38,169 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:38,274 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:38,337 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:38,452 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:38,590 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:38,602 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:38,720 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:38,874 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:38,922 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:39,119 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:39,319 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:39,338 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:39,523 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:39,635 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:39,676 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:39,793 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:39,921 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:39,955 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:40,083 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:40,208 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:40,240 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:40,334 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:40,477 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:40,539 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:40,629 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:40,766 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:40,819 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:40,901 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:41,008 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:41,043 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:41,154 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:41,317 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:41,320 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:41,446 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:41,626 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:41,633 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:41,731 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:41,884 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:41,896 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:42,725 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:43,246 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:43,253 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:43,345 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:43,509 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:43,516 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:43,651 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:43,814 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:43,841 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:43,928 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:44,117 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:44,135 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:44,279 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:44,389 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:44,407 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:44,589 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:44,790 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:44,844 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:45,112 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:45,262 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:45,334 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:45,431 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:45,556 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:45,590 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:45,737 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:45,855 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:45,895 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:46,038 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:46,183 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:46,184 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:46,353 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:46,440 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:46,466 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:46,658 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:46,702 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:46,740 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:46,950 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:46,950 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:46,992 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:47,214 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:47,237 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:47,239 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:47,480 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:47,486 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:47,524 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:47,763 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:47,764 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:47,832 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:48,050 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:48,052 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:48,086 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:48,330 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:48,357 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:48,433 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:48,616 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:48,620 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:48,702 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:48,853 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:48,878 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:49,001 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:49,143 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:49,146 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:49,326 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:49,394 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:49,423 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:49,663 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:49,664 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:49,670 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:49,957 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:49,965 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:49,965 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:50,238 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:50,239 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:50,250 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:50,539 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:50,564 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:50,582 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:50,863 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:50,869 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:50,869 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:51,117 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:51,128 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:51,145 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:51,386 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:51,404 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:51,465 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:51,668 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:51,827 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:51,968 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:52,142 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:52,371 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:52,536 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:52,659 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:52,913 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:53,113 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:53,339 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:53,395 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:53,660 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:53,878 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:54,040 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:54,496 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:54,677 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:54,969 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:54,973 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:55,212 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:55,260 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:55,597 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:55,876 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:56,212 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:56,348 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:56,516 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:56,747 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:56,996 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:57,337 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:57,490 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:57,677 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:57,884 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:57,942 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:58,178 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:58,351 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:58,607 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:58,657 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:58,910 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:59,102 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:59,159 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:59,604 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:59,886 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:18:59,936 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:00,183 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:00,296 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:23,241 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:23,262 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mofcom.gov.cn/article/cwgongzuo/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[crawler] ERROR 2017-09-20 12:19:23,396 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mofcom.gov.cn/article/cwgongzuo/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:24,523 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:27,705 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:30,455 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:30,838 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:31,537 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:31,911 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:32,572 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:33,339 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:33,936 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:34,162 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:19:34,604 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:35,109 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:19:36,805 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:00,515 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201709/t20170908_4613706.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:00,517 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201709/t20170906_4613483.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:00,797 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201709/t20170906_4613482.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:00,814 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201709/t20170911_4613976.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:01,075 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201709/t20170905_4613408.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:01,086 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201709/t20170901_4613079.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:01,381 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201708/t20170822_4611891.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:01,385 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201708/t20170824_4612113.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:01,397 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201709/t20170901_4612969.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:01,923 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201708/t20170802_4610452.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:02,018 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201707/t20170721_4609419.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:02,257 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201707/P020170721396844247170.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:20:02,536 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/tz/201707/t20170705_4607575.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:02,754 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.hanweb.com
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,083 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jgxx/index.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,127 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/index.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,218 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/index.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,444 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/ztzl/index.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,449 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxsj/index.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,554 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/260214.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,566 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/index.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,577 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/index.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,655 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/260110.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,671 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/259935.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,762 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/259566.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,773 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/259486.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,866 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/259441.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,883 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/259438.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,986 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/257882.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:03,998 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/257894.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:04,104 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/257729.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:04,963 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/257461.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:05,083 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/257442.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:05,129 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/257726.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:05,187 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/257417.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:05,231 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/257231.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:05,286 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/256810.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:05,325 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/index.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:25,058 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/index1.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:25,063 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjeit.gov.cn/jxdt/tzgg/index3.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:28,838 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zwgk/ndgz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:29,091 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zwgk/ysjs/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:29,504 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zcfg/zlgh/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:29,578 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zcfg/wzjd/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:29,585 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zcfg/zcwj/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:29,884 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zlzf/zfjggg/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:30,042 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zlzf/zlzfsxlc/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:30,668 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zxfw/bgxz/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:30,832 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.sipo.gov.cn/zhfwpt/zlsqzn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:31,634 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zwxx/zwgg/201709/t20170918_35682.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:31,841 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zwxx/zwgg/201709/t20170911_35678.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:31,945 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zwxx/zwgg/201709/t20170906_35671.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:32,042 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zwxx/zwgg/201708/t20170831_35666.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:32,142 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zwxx/zwgg/201708/t20170825_35661.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:32,299 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zwxx/zwgg/201708/t20170822_35654.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:32,977 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zwxx/zwgg/201708/t20170810_35636.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:33,154 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zwxx/zwgg/201707/t20170727_35618.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:33,176 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.bjipo.gov.cn/zwxx/zwgg/201707/t20170728_35622.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:33,460 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:33,885 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/#
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:34,125 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:35,081 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.lib.cass.org.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:35,231 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cssn.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:20:35,457 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:35,997 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/#
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:36,128 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/#
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:36,297 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/#
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:36,894 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.lib.cass.org.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:37,274 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cssn.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:20:37,702 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:39,339 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/#
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:39,687 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/#
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:39,945 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/#
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:40,811 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.lib.cass.org.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:55,680 com.crawler.CrawlerTask.ArtGetInfo(97) http://10.1.1.10/sky/default.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to 10.1.1.10:80 [/10.1.1.10] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 12:20:56,036 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cssn.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:20:56,530 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:57,715 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/#
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:57,910 com.crawler.CrawlerTask.ArtGetInfo(97) http://10.1.1.10/sky/default.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to 10.1.1.10:80 [/10.1.1.10] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 12:20:57,941 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/#
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:58,137 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/#
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:58,653 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.lib.cass.org.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:58,950 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cssn.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:20:59,176 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:59,422 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:59,649 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/201709/t20170906_3631021.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:20:59,881 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/201709/t20170906_3631021.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:00,883 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/201707/P020170721605821362237.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:02,170 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/201704/P020170407369689606047.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:02,322 com.crawler.CrawlerTask.ArtGetInfo(97) http://10.1.1.10/sky/default.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to 10.1.1.10:80 [/10.1.1.10] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 12:21:02,550 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/201703/t20170313_3449440.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:03,359 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,364 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,368 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,373 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,377 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,381 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,386 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,390 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,394 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,400 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,404 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,408 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,412 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,417 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,422 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,426 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,431 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,434 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,437 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:03,441 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/tongzhigonggao/###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 36: http://cass.cssn.cn/tongzhigonggao/###
+[crawler] ERROR 2017-09-20 12:21:04,274 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.most.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:04,330 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mps.gov.cn/n16/index.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 521
+[crawler] ERROR 2017-09-20 12:21:04,618 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mwr.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:05,001 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.moa.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:05,322 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.audit.gov.cn/n1992130/index.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:21:05,397 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.sasac.gov.cn/n1180/index.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 403
+[crawler] ERROR 2017-09-20 12:21:05,666 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cnta.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:05,977 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.hmo.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:06,397 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cas.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:06,881 com.crawler.CrawlerTask.ArtGetInfo(97) http://cass.cssn.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:06,999 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cea.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:07,281 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.csrc.gov.cn/pub/newsite/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:07,568 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.circ.gov.cn/web/site0/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:07,635 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.cpnn.com.cn/cpnn_zt/csdjh/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:21:10,416 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.aqsiq.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:10,592 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.ndrc.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:10,664 com.crawler.CrawlerTask.ArtGetInfo(97) http://www.mlr.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:19,107 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.tsinghua.edu.cn/publish/th/index.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:21:19,142 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.nhfpc.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:19,370 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.chinasafety.gov.cn/newpage/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:19,573 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.nankai.edu.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:19,695 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.shu.edu.cn/IndexPage.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:21:20,290 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.tongji.edu.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[crawler] ERROR 2017-09-20 12:21:20,923 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.neu.edu.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:24,226 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.hhu.edu.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:30,193 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjedu.gov.cn/tzgg/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:34,957 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.cuc.edu.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:35,049 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjedu.gov.cn/tzgg/#idmenu
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:35,640 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjedu.gov.cn/tzgg/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:35,831 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjedu.gov.cn/tzgg/201709/t20170908_32056.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:36,272 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.nenu.edu.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:37,217 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjedu.gov.cn/tzgg/201707/t20170725_29865.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:37,997 com.crawler.CrawlerTask.ArtGetInfo(98) http://ie.tyut.edu.cn/cn/index.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 503
+[crawler] ERROR 2017-09-20 12:21:38,326 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjedu.gov.cn/tzgg/201706/t20170622_20940.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:39,557 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjedu.gov.cn/tzgg/201705/t20170508_19472.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:41,561 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.hzau.edu.cn/ch/home/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.hzau.edu.cn:80 [www.hzau.edu.cn/211.69.143.10] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:21:41,622 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjedu.gov.cn/tzgg/201611/t20161111_15975.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:43,159 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.njtu.edu.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:43,647 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.sytu.edu.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.net.UnknownHostException: www.sytu.edu.cn
+[crawler] ERROR 2017-09-20 12:21:43,864 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjedu.gov.cn/tzgg/201610/P020161024374881786549.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:44,866 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.shufe.edu.cn/structure/index
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:21:45,007 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.swufe.edu.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:46,238 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.hit.edu.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:21:48,575 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.tass-tj.org.cn/Pages/index.aspx
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:21:50,806 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.lass.net.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:52,120 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.hbsky.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:52,363 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.jxsky.org.cn/web/Index.action
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:52,747 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.sass.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:55,217 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.sass.org.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:57,863 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.nxass.com/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:58,502 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.gmw.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:21:59,643 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.wenming.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:22:07,355 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201709/t20170919_391714.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:07,765 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201709/t20170913_391414.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:08,223 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201708/t20170830_390822.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:08,488 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201708/t20170830_390821.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:08,699 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201708/t20170824_388266.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:08,912 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201708/t20170823_388187.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:09,126 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201708/t20170822_388136.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:09,328 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201708/t20170821_388076.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:09,533 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201707/t20170725_387144.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:09,746 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201707/t20170724_387028.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:10,418 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201707/t20170712_386679.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:10,610 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201706/t20170620_385774.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:10,818 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201706/t20170616_385691.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:11,023 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/zfxxgk/tg/201705/t20170522_384606.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException: 1
+[crawler] ERROR 2017-09-20 12:22:12,727 com.crawler.CrawlerTask.ArtGetInfo(98) http://www.bjnw.gov.cn/wzdt/index.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:27:43,618 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.bjepb.gov.cn/bjhrb/resource/cms/2017/04/2017040116442932454.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:27:47,207 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.bjepb.gov.cn/bjhrb/resource/cms/2017/04/2017040116424816220.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:27:47,897 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.bjepb.gov.cn/bjhrb/resource/cms/2017/04/2017040116441116960.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:27:50,372 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.bjepb.gov.cn/bjhrb/resource/cms/2017/04/2017040116445231932.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:27:58,405 com.crawler.CrawlerTask.ArtGetInfo(118) https://123.127.185.105/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[crawler] ERROR 2017-09-20 12:28:13,711 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.bjpc.gov.cn/images/20160918.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:28:41,463 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.bjpc.gov.cn/cxfw/jgsfcx/jzjg/201208/t9779303.htm
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:28:44,587 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.bjpc.gov.cn/cxfw/jgsfcx/sqsf/201706/P020170621564235022843.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:28:44,785 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.bjpc.gov.cn/cxfw/jgsfcx/sqsf/201706/P020170829557257419833.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:29:21,962 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sipa.gov.cn/gb\zscq/node5/index1.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in path at index 25: http://www.sipa.gov.cn/gb\zscq/node5/index1.html
+[crawler] ERROR 2017-09-20 12:29:22,294 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:29:22,540 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/?id=2
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:29:22,775 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/?id=3
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:29:23,008 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/?id=4
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:29:23,252 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/?id=5
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:29:23,502 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:29:30,611 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:29:33,602 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/gg/index.htm###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 38: http://www.sheitc.gov.cn/gg/index.htm###
+[crawler] ERROR 2017-09-20 12:29:33,605 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/gg/index.htm###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 38: http://www.sheitc.gov.cn/gg/index.htm###
+[crawler] ERROR 2017-09-20 12:29:33,609 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/gg/index.htm###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 38: http://www.sheitc.gov.cn/gg/index.htm###
+[crawler] ERROR 2017-09-20 12:29:33,612 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/gg/index.htm###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 38: http://www.sheitc.gov.cn/gg/index.htm###
+[crawler] ERROR 2017-09-20 12:29:33,852 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/gg/index.htm###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 38: http://www.sheitc.gov.cn/gg/index.htm###
+[crawler] ERROR 2017-09-20 12:29:33,856 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/gg/index.htm###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 38: http://www.sheitc.gov.cn/gg/index.htm###
+[crawler] ERROR 2017-09-20 12:29:34,118 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/gg/index.htm###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 38: http://www.sheitc.gov.cn/gg/index.htm###
+[crawler] ERROR 2017-09-20 12:29:34,121 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/gg/index.htm###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 38: http://www.sheitc.gov.cn/gg/index.htm###
+[crawler] ERROR 2017-09-20 12:29:34,550 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/gg/index.htm###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 38: http://www.sheitc.gov.cn/gg/index.htm###
+[crawler] ERROR 2017-09-20 12:29:34,554 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/gg/index.htm###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 38: http://www.sheitc.gov.cn/gg/index.htm###
+[crawler] ERROR 2017-09-20 12:29:34,656 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/gg/index.htm###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 38: http://www.sheitc.gov.cn/gg/index.htm###
+[crawler] ERROR 2017-09-20 12:29:34,665 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sheitc.gov.cn/gg/index.htm###
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in fragment at index 38: http://www.sheitc.gov.cn/gg/index.htm###
+[crawler] ERROR 2017-09-20 12:29:46,785 com.crawler.CrawlerTask.ArtGetInfo(118) http://dc.shian.gov.cn/sww/ReportSearchRouPin.aspx
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 12:29:55,316 com.crawler.CrawlerTask.ArtGetInfo(118) http://english.sheitc.gov.cn/jsp/english/english/index.jsp
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to english.sheitc.gov.cn:80 [english.sheitc.gov.cn/114.141.186.240] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 12:30:17,947 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.sepb.gov.cn/tools/EnvironApp_20110905.apk
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:30:26,383 com.crawler.CrawlerTask.ArtGetInfo(118) http://wgj.sh.gov.cn/node2/n2029/n2031/n2062/u1ai153186.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:30:41,512 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjec.gov.cn:8088/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjec.gov.cn:8088 [www.tjec.gov.cn/60.28.163.233] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:37:05,347 com.crawler.CrawlerTask.ArtGetInfo(118) http://images.stcsm.gov.cn/CMSstcsm/201709/201709121024001.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:37:09,493 com.crawler.CrawlerTask.ArtGetInfo(118) http://images.stcsm.gov.cn/CMSstcsm/201708/201708071106036.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:37:17,028 com.crawler.CrawlerTask.ArtGetInfo(118) http://images.stcsm.gov.cn/CMSstcsm/201708/201708071113026.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:37:17,795 com.crawler.CrawlerTask.ArtGetInfo(118) http://images.stcsm.gov.cn/CMSstcsm/201707/201707111030033.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:37:18,461 com.crawler.CrawlerTask.ArtGetInfo(118) http://images.stcsm.gov.cn/CMSstcsm/201707/201707111029052.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:37:19,344 com.crawler.CrawlerTask.ArtGetInfo(118) http://images.stcsm.gov.cn/CMSstcsm/201707/201707111101025.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:37:19,968 com.crawler.CrawlerTask.ArtGetInfo(118) http://images.stcsm.gov.cn/CMSstcsm/201706/201706200359014.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:37:20,636 com.crawler.CrawlerTask.ArtGetInfo(118) http://images.stcsm.gov.cn/CMSstcsm/201706/201706060549015.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:37:23,937 com.crawler.CrawlerTask.ArtGetInfo(118) http://images.stcsm.gov.cn/CMSstcsm/201705/201705261121037.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:37:24,801 com.crawler.CrawlerTask.ArtGetInfo(118) http://images.stcsm.gov.cn/CMSstcsm/201705/201705080256035.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:37:25,498 com.crawler.CrawlerTask.ArtGetInfo(118) http://images.stcsm.gov.cn/CMSstcsm/201705/201705080252014.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:37:27,223 com.crawler.CrawlerTask.ArtGetInfo(118) http://images.stcsm.gov.cn/CMSstcsm/201706/201706060543035.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:37:36,110 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.stcsm.gov.cn/xxgk1/shweb.doc
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:40:11,133 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.kpyun.net/education/educationList.do
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 500
+[crawler] ERROR 2017-09-20 12:40:30,275 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.stcsm.gov.cn/xxgk1/shweb.doc
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:40:31,291 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.stcsm.gov.cn/wx/example/1_b.jpg
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:40:31,293 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.stcsm.gov.cn/wx/example/1_b.jpg
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:40:54,586 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjhb.gov.cn/root16/mechanism/office_of_planni/201707/t20170719_28442.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:40:54,631 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjhb.gov.cn/root16/mechanism/office_of_planni/201707/t20170712_28308.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:26,914 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/xxgk/zwxx/ldxx/ldxx-ml.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:27,063 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/xxgk/zwxx/jggk/jggk-ml.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:27,983 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/xxgk/zwxx/nsjg/nsjg-ml.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:28,150 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/xxgk/zwxx/fgwj/fgwj-ml.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:34,567 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1709/170912-gygs-wbc.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:34,961 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1709/170912-tjsw.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:35,660 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1709/170903-tjsw.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:36,045 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/2017gkzp/170831-tjgy.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:36,760 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/2017gkzp/170831-tjjj.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:37,152 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/2017gkzp/170831-tjnr.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:37,857 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/2017gkzp/170831-tjsb.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:38,228 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/2017gkzp/170831-tjsq.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:38,952 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/2017gkzp/170831-tjss.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:39,322 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/2017gkzp/170831-tjsw.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:40,053 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/2017gkzp/170831-tjys.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:40,406 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/2017gkzp/170831-ymqt.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:41,150 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/170829-tjsw.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:41,765 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/170829-tjsw-jd.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:42,063 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/20170811-tjsw.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:42,122 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/20170811-tjsg.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:42,398 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/20170802-tjsw.mht
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:42,477 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1708/20170802-tjsw.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:42,735 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1705/170523-yys.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:45,442 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1705/170511-tjys.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:46,521 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1705/170511-zgtj.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:47,616 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1705/170505-gyzf.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:48,490 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1705/170505-tjsw.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:51,449 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1704/170420-tjtsg.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:51,711 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1704/170420-tjjxyt.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:51,935 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1704/170414-tjsw.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:52,122 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1704/170406-tjsw.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:52,861 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1702/170308-gykz.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:54,056 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1702/170224-tjsw-2016.doc
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:41:55,296 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1701/170119-2016.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:56,391 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1701/170111-tjsa.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:57,479 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1701/170111-tjsa-.mht
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:57,552 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1701/170110-tjsw-3.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:58,576 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1701/170110-tjsw-.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:58,643 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1701/170110-tjsw.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:59,673 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1701/170110-tjsw-1.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:41:59,752 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1701/170105-tjsq.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:42:00,760 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/zwxx/zwgk/1701/170104-2016.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:42:00,851 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/xxgk/zwxx/tzgg/tzgg-ml-2006-2011.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:42:01,858 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/xxgk/zwxx/tzgg/tzgg-m-l-2012.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:42:01,926 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjwh.gov.cn/xxgk/zwxx/tzgg/tzgg-m-l-2013.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 12:42:30,951 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.tjdpc.gov.cn/dtzx/tzgg/201708/P020170829532659310500.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:42:36,024 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.bjcoc.gov.cn
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:42:39,176 com.crawler.CrawlerTask.ArtGetInfo(118) http://mail.bjcoc.gov.cn/nsmail/index.php
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+javax.net.ssl.SSLProtocolException: handshake alert:  unrecognized_name
+[crawler] ERROR 2017-09-20 12:42:43,318 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.bjcoc.gov.cn/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:42:57,847 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.bjcoc.gov.cn/nsjg/ltzhxu/xxtg/201708/t20170831_73133.html
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:42:59,196 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.bjcoc.gov.cn
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:43:22,337 com.crawler.CrawlerTask.ArtGetInfo(118) http://zfxx.cq.gov.cn/zfxxgk/jsp/citizen/themecategory.jsp?dwcode=009276783
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 12:43:32,632 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.cq.gov.cn/publicmail/citizen/WriteMail.aspx?intOrganizationID=79
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:43:54,816 com.crawler.CrawlerTask.ArtGetInfo(118) http://222.177.17.236/innofund/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to 222.177.17.236:80 [/222.177.17.236] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 12:43:54,832 com.crawler.CrawlerTask.ArtGetInfo(118) http://222.177.17.231:8081/
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to 222.177.17.231:8081 [/222.177.17.231] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 12:44:15,842 com.crawler.CrawlerTask.ArtGetInfo(118) https://168.160.193.131/onlinereport/login.jsp
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to 168.160.193.131:443 [/168.160.193.131] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 12:44:58,803 com.crawler.CrawlerTask.ArtGetInfo(118) http://wjj.cq.gov.cn/xxgk\tzgg
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in path at index 25: http://wjj.cq.gov.cn/xxgk\tzgg
+[crawler] ERROR 2017-09-20 12:45:18,010 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.cqedu.cn/Item/13420.aspx
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:45:50,759 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.cq.gov.cn/publicmail/citizen/WriteMail.aspx?intOrganizationID=78
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 503
+[crawler] ERROR 2017-09-20 12:46:05,677 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.cqedu.cn/Item/25541.aspx
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:46:10,805 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.cqedu.cn/Item/25500.aspx
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 12:46:50,658 com.crawler.CrawlerTask.ArtGetInfo(118) http://wza.cepb.gov.cn
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 13:02:35,609 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.cqemc.cn/download/zxjj/list.jsp?type=xxgk&type_id=948952608911000004
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:15:28,081 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.cepb.gov.cn/gzhd/hbwbgc/index.shtml
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.ConnectionClosedException: Premature end of Content-Length delimited message body (expected: 17210; received: 16306
+[crawler] ERROR 2017-09-20 13:24:46,820 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.cepb.gov.cn/uploadfiles/201709/15/2017091509251760682637.xls
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 13:41:53,920 com.crawler.CrawlerTask.ArtGetInfo(118) http://www.gzcom.gov.cn/webpic/W0201704/W020170412/W020170412224007462847.pdf
+ÄÚÈÝÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 13:55:41,266 com.crawler.CrawlerTask.getNewUrl(156) http://www.moa.gov.cn/govpublic/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException
+[crawler] ERROR 2017-09-20 13:55:41,266 com.crawler.CrawlerTask.getNewUrl(156) http://www.moe.gov.cn/jyb_xxgk/s5743/s5972/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.ArrayIndexOutOfBoundsException
+[crawler] ERROR 2017-09-20 13:55:44,985 com.crawler.CrawlerTask.getNewUrl(156) http://e-nw.shac.gov.cn/xxgk/gsgg/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:55:53,550 com.crawler.CrawlerTask.getNewUrl(156) http://www.sdstc.gov.cn/gggs/index.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:55:55,098 com.crawler.CrawlerTask.getNewUrl(156) http://www.sdein.gov.cn/zxbs/gszx/jsxml_1599/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 13:55:56,217 com.crawler.CrawlerTask.getNewUrl(156) http://www.lnen.cn/zwgk/gsgg/index.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 13:56:08,411 com.crawler.CrawlerTask.getNewUrl(156) http://www.hljwht.gov.cn/zwgk/zfxx/zxgk/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:56:11,718 com.crawler.CrawlerTask.getNewUrl(156) http://hbt.jl.gov.cn/zwgk/gwe/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:56:13,042 com.crawler.CrawlerTask.getNewUrl(156) http://www.hebwh.gov.cn/whzx/index.jsp?catalogId=2c9081fb56fe48d20156fe6791e10008
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.hebwh.gov.cn:80 [www.hebwh.gov.cn/110.249.220.234] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 13:56:50,250 com.crawler.CrawlerTask.getNewUrl(156) http://www.jshb.gov.cn/gsgg/ggtz/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 13:56:51,137 com.crawler.CrawlerTask.getNewUrl(156) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 13:56:55,309 com.crawler.CrawlerTask.getNewUrl(156) http://www.qhfgw.gov.cn/gzdt/tzgg/default.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.qhfgw.gov.cn:80 [www.qhfgw.gov.cn/125.72.14.88] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 13:57:02,894 com.crawler.CrawlerTask.getNewUrl(156) http://www.ynstc.gov.cn/tzgg/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 13:57:21,254 com.crawler.CrawlerTask.getNewUrl(156) http://www.sxipo.gov.cn/tzgg/index.jhtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:57:21,503 com.crawler.CrawlerTask.getNewUrl(156) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 13:57:29,491 com.crawler.CrawlerTask.getNewUrl(156) http://www.sccnt.gov.cn/xxggzwxx/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 521
+[crawler] ERROR 2017-09-20 13:57:35,800 com.crawler.CrawlerTask.getNewUrl(156) http://www.lneic.gov.cn/lnjxw/tzgg/tzgg.html?p=1
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.net.SocketTimeoutException: Read timed out
+[crawler] ERROR 2017-09-20 13:57:39,804 com.crawler.CrawlerTask.getNewUrl(156) http://www.ahkjt.gov.cn/technologi/zhxw/ana/A041701index_1.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:57:39,832 com.crawler.CrawlerTask.getNewUrl(156) http://www.gzdpc.gov.cn/col/col3492/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:57:42,185 com.crawler.CrawlerTask.getNewUrl(156) http://www.ahbofcom.gov.cn/XXGK/TitleList.aspx?ClassCode=820000
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 13:57:51,695 com.crawler.CrawlerTask.getNewUrl(156) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 13:58:08,981 com.crawler.CrawlerTask.getNewUrl(156) http://www.xzgxt.gov.cn/CORAL/portal/zwgk/gkzn.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.xzgxt.gov.cn:80 [www.xzgxt.gov.cn/219.151.43.87] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 13:58:34,153 com.crawler.CrawlerTask.getNewUrl(156) http://e-nw.shac.gov.cn/xxgk/gsgg/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:58:35,674 com.crawler.CrawlerTask.getNewUrl(156) http://www.zjkjt.gov.cn/html/node01/list0101/0101_1.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.net.SocketTimeoutException: Read timed out
+[crawler] ERROR 2017-09-20 13:58:40,787 com.crawler.CrawlerTask.getNewUrl(156) http://www.sdstc.gov.cn/gggs/index.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:58:41,739 com.crawler.CrawlerTask.getNewUrl(156) http://www.sdein.gov.cn/zxbs/gszx/jsxml_1599/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 13:58:42,818 com.crawler.CrawlerTask.getNewUrl(156) http://www.lnen.cn/zwgk/gsgg/index.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 13:59:01,336 com.crawler.CrawlerTask.getNewUrl(156) http://www.hebwh.gov.cn/whzx/index.jsp?catalogId=2c9081fb56fe48d20156fe6791e10008
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.hebwh.gov.cn:80 [www.hebwh.gov.cn/110.249.220.234] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 13:59:01,432 com.crawler.CrawlerTask.getNewUrl(156) http://www.hljwht.gov.cn/zwgk/zfxx/zxgk/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:59:04,511 com.crawler.CrawlerTask.getNewUrl(156) http://hbt.jl.gov.cn/zwgk/gwe/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:59:13,553 com.crawler.CrawlerTask.getNewUrl(156) http://www.hljdep.gov.cn/docweb/docList.action?channelId=4850&parentChannelId=-1
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.hljdep.gov.cn:80 [www.hljdep.gov.cn/221.212.115.3] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 13:59:22,554 com.crawler.CrawlerTask.getNewUrl(156) http://www.gsep.gansu.gov.cn/smallclass.jsp?urltype=tree.TreeTempUrl&wbtreeid=1397
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 503
+[crawler] ERROR 2017-09-20 13:59:30,696 com.crawler.CrawlerTask.getNewUrl(156) http://www.jshb.gov.cn/gsgg/ggtz/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 13:59:31,535 com.crawler.CrawlerTask.getNewUrl(156) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 13:59:40,744 com.crawler.CrawlerTask.getNewUrl(156) http://www.ynstc.gov.cn/tzgg/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 13:59:47,722 com.crawler.CrawlerTask.getNewUrl(156) http://www.qhfgw.gov.cn/gzdt/tzgg/default.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.qhfgw.gov.cn:80 [www.qhfgw.gov.cn/125.72.14.88] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 13:59:51,251 com.crawler.CrawlerTask.getNewUrl(156) http://www.sxipo.gov.cn/tzgg/index.jhtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:59:51,281 com.crawler.CrawlerTask.getNewUrl(156) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 13:59:54,187 com.crawler.CrawlerTask.getNewUrl(156) http://www.sccnt.gov.cn/xxggzwxx/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 521
+[crawler] ERROR 2017-09-20 13:59:58,622 com.crawler.CrawlerTask.getNewUrl(156) http://www.ahkjt.gov.cn/technologi/zhxw/ana/A041701index_1.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:59:58,645 com.crawler.CrawlerTask.getNewUrl(156) http://www.gzdpc.gov.cn/col/col3492/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 13:59:59,733 com.crawler.CrawlerTask.getNewUrl(156) http://www.ahbofcom.gov.cn/XXGK/TitleList.aspx?ClassCode=820000
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:00:08,108 com.crawler.CrawlerTask.getNewUrl(156) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 14:00:22,777 com.crawler.CrawlerTask.getNewUrl(156) http://www.lneic.gov.cn/lnjxw/tzgg/tzgg.html?p=1
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.net.SocketTimeoutException: Read timed out
+[crawler] ERROR 2017-09-20 14:00:25,648 com.crawler.CrawlerTask.getNewUrl(156) http://www.xzgxt.gov.cn/CORAL/portal/zwgk/gkzn.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.xzgxt.gov.cn:80 [www.xzgxt.gov.cn/219.151.43.87] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 14:01:02,021 com.crawler.CrawlerTask.getNewUrl(156) http://e-nw.shac.gov.cn/xxgk/gsgg/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 14:01:04,159 com.crawler.CrawlerTask.getNewUrl(156) http://www.tjwh.gov.cn/xxgk/zwxx/tzgg/tzgg-ml.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 14:01:17,392 com.crawler.CrawlerTask.getNewUrl(156) http://www.sdstc.gov.cn/gggs/index.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 14:01:20,221 com.crawler.CrawlerTask.getNewUrl(156) http://www.sdein.gov.cn/zxbs/gszx/jsxml_1599/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:01:21,719 com.crawler.CrawlerTask.getNewUrl(156) http://www.lnen.cn/zwgk/gsgg/index.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:01:31,879 com.crawler.CrawlerTask.getNewUrl(156) http://www.hebwh.gov.cn/whzx/index.jsp?catalogId=2c9081fb56fe48d20156fe6791e10008
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.hebwh.gov.cn:80 [www.hebwh.gov.cn/110.249.220.234] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 14:01:46,708 com.crawler.CrawlerTask.getNewUrl(156) http://www.hljwht.gov.cn/zwgk/zfxx/zxgk/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 14:01:47,533 com.crawler.CrawlerTask.getNewUrl(156) http://www.hljdep.gov.cn/docweb/docList.action?channelId=4850&parentChannelId=-1
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.hljdep.gov.cn:80 [www.hljdep.gov.cn/221.212.115.3] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 14:01:48,895 com.crawler.CrawlerTask.getNewUrl(156) http://hbt.jl.gov.cn/zwgk/gwe/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 14:02:05,309 com.crawler.CrawlerTask.getNewUrl(156) http://www.gsep.gansu.gov.cn/smallclass.jsp?urltype=tree.TreeTempUrl&wbtreeid=1397
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 503
+[crawler] ERROR 2017-09-20 14:02:08,599 com.crawler.CrawlerTask.getNewUrl(156) http://www.jshb.gov.cn/gsgg/ggtz/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:02:09,414 com.crawler.CrawlerTask.getNewUrl(156) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 14:02:21,366 com.crawler.CrawlerTask.getNewUrl(156) http://www.qhfgw.gov.cn/gzdt/tzgg/default.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.qhfgw.gov.cn:80 [www.qhfgw.gov.cn/125.72.14.88] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 14:02:39,059 com.crawler.CrawlerTask.getNewUrl(156) http://www.sxipo.gov.cn/tzgg/index.jhtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 14:05:20,700 com.crawler.CrawlerTask.getNewUrl(156) http://e-nw.shac.gov.cn/xxgk/gsgg/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 14:05:23,171 com.crawler.CrawlerTask.getNewUrl(156) http://www.tjwh.gov.cn/xxgk/zwxx/tzgg/tzgg-ml.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 14:05:41,721 com.crawler.CrawlerTask.getNewUrl(156) http://wjx.cq.gov.cn/xxgk/tzgg/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.net.UnknownHostException: wjx.cq.gov.cn
+[crawler] ERROR 2017-09-20 14:05:42,267 com.crawler.CrawlerTask.getNewUrl(156) http://www.sdstc.gov.cn/gggs/index.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 14:05:44,122 com.crawler.CrawlerTask.getNewUrl(156) http://www.sdein.gov.cn/zxbs/gszx/jsxml_1599/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:05:49,436 com.crawler.CrawlerTask.getNewUrl(156) http://www.hebwh.gov.cn/whzx/index.jsp?catalogId=2c9081fb56fe48d20156fe6791e10008
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.hebwh.gov.cn:80 [www.hebwh.gov.cn/110.249.220.234] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 14:05:49,535 com.crawler.CrawlerTask.getNewUrl(156) http://www.lnen.cn/zwgk/gsgg/index.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:05:59,127 com.crawler.CrawlerTask.getNewUrl(156) http://www.hljdep.gov.cn/docweb/docList.action?channelId=4850&parentChannelId=-1
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.hljdep.gov.cn:80 [www.hljdep.gov.cn/221.212.115.3] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 14:05:59,214 com.crawler.CrawlerTask.getNewUrl(156) http://www.hljwht.gov.cn/zwgk/zfxx/zxgk/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 14:06:00,721 com.crawler.CrawlerTask.getNewUrl(156) http://hbt.jl.gov.cn/zwgk/gwe/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 14:06:02,249 com.crawler.CrawlerTask.getNewUrl(156) http://www.gsep.gansu.gov.cn/smallclass.jsp?urltype=tree.TreeTempUrl&wbtreeid=1397
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 503
+[crawler] ERROR 2017-09-20 14:06:27,491 com.crawler.CrawlerTask.getNewUrl(156) http://www.qhfgw.gov.cn/gzdt/tzgg/default.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.qhfgw.gov.cn:80 [www.qhfgw.gov.cn/125.72.14.88] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 14:06:29,870 com.crawler.CrawlerTask.getNewUrl(156) http://www.jshb.gov.cn/gsgg/ggtz/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:06:30,848 com.crawler.CrawlerTask.getNewUrl(156) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 14:06:36,066 com.crawler.CrawlerTask.getNewUrl(156) http://www.ynstc.gov.cn/tzgg/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:06:42,851 com.crawler.CrawlerTask.getNewUrl(156) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 14:06:42,967 com.crawler.CrawlerTask.getNewUrl(156) http://www.sxipo.gov.cn/tzgg/index.jhtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 14:06:51,258 com.crawler.CrawlerTask.getNewUrl(156) http://www.sccnt.gov.cn/xxggzwxx/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 521
+[crawler] ERROR 2017-09-20 14:06:58,047 com.crawler.CrawlerTask.getNewUrl(156) http://www.ahkjt.gov.cn/technologi/zhxw/ana/A041701index_1.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 14:06:58,078 com.crawler.CrawlerTask.getNewUrl(156) http://www.gzdpc.gov.cn/col/col3492/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 14:06:59,273 com.crawler.CrawlerTask.getNewUrl(156) http://www.ahbofcom.gov.cn/XXGK/TitleList.aspx?ClassCode=820000
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:07:06,890 com.crawler.CrawlerTask.getNewUrl(156) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 14:07:24,468 com.crawler.CrawlerTask.getNewUrl(156) http://www.xzgxt.gov.cn/CORAL/portal/zwgk/gkzn.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.xzgxt.gov.cn:80 [www.xzgxt.gov.cn/219.151.43.87] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 14:07:27,010 com.crawler.CrawlerTask.getNewUrl(156) http://www.lneic.gov.cn/lnjxw/tzgg/tzgg.html?p=1
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.net.SocketTimeoutException: Read timed out
+[crawler] ERROR 2017-09-20 14:19:01,384 com.crawler.CrawlerTask.getNewUrl(167) http://wjj.cq.gov.cn/xxgk	zgg/86119.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.IllegalArgumentException: Illegal character in path at index 25: http://wjj.cq.gov.cn/xxgk	zgg/86119.htm
+[crawler] ERROR 2017-09-20 14:20:23,366 com.crawler.CrawlerTask.getNewUrl(167) http://www.tjwh.gov.cn/xxgk/zwxx/tzgg/tzgg-ml.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.tjwh.gov.cn:80 [www.tjwh.gov.cn/60.28.135.82] failed: Connection refused: connect
+[crawler] ERROR 2017-09-20 14:21:14,861 com.crawler.CrawlerTask.getNewUrl(167) http://www.sdein.gov.cn/zxbs/gszx/jsxml_1599/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:21:51,714 com.crawler.CrawlerTask.getNewUrl(167) http://www.sdein.gov.cn/zxbs/gszx/jsxml_1599/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:21:53,651 com.crawler.CrawlerTask.getNewUrl(167) http://www.sdein.gov.cn/zxbs/gszx/jsxml_1599/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:21:55,299 com.crawler.CrawlerTask.getNewUrl(167) http://www.sdein.gov.cn/zxbs/gszx/jsxml_1599/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:23:38,261 com.crawler.CrawlerTask.getNewUrl(167) http://www.lnen.cn/zwgk/gsgg/index.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:33:29,488 com.crawler.CrawlerTask.getNewUrl(167) http://www.jshb.gov.cn/gsgg/ggtz/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:40:42,633 com.crawler.CrawlerTask.getNewUrl(167) http://www.sccnt.gov.cn/xxggzwxx/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 521
+[crawler] ERROR 2017-09-20 14:48:33,688 com.crawler.CrawlerTask.getNewUrl(167) http://www.ahbofcom.gov.cn/XXGK/TitleList.aspx?ClassCode=820000
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:48:45,929 com.crawler.CrawlerTask.getNewUrl(167) http://www.ahbofcom.gov.cn/XXGK/TitleList.aspx?ClassCode=820000
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 14:52:15,771 com.crawler.CrawlerTask.getNewUrl(167) http://www.xzgxt.gov.cn/CORAL/portal/zwgk/gkzn.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.xzgxt.gov.cn:80 [www.xzgxt.gov.cn/219.151.43.87] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 17:25:53,160 com.crawler.CrawlerTask.getNewUrl(202) http://e-nw.shac.gov.cn/xxgk/gsgg/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 17:25:57,212 com.crawler.CrawlerTask.getNewUrl(202) http://www.moa.gov.cn/govpublic/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.moa.gov.cn:80 [www.moa.gov.cn/202.127.45.114] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 17:26:09,801 com.crawler.CrawlerTask.getNewUrl(202) http://www.sdstc.gov.cn/gggs/index.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 17:26:41,624 com.crawler.CrawlerTask.getNewUrl(201) http://www.sdwht.gov.cn/html/zwgk/ggtz/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.sdwht.gov.cn:80 [www.sdwht.gov.cn/124.133.228.148] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 17:28:05,256 com.crawler.CrawlerTask.getNewUrl(201) http://www.sdein.gov.cn/zxbs/gszx/jsxml_1599/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 17:28:11,956 com.crawler.CrawlerTask.getNewUrl(201) http://www.sdwr.gov.cn/xwzx/gsgg/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.ConnectionClosedException: Premature end of Content-Length delimited message body (expected: 27119; received: 1140
+[crawler] ERROR 2017-09-20 17:28:12,289 com.crawler.CrawlerTask.getNewUrl(201) http://www.lnen.cn/zwgk/gsgg/index.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 17:28:28,068 com.crawler.CrawlerTask.getNewUrl(201) http://www.hljwht.gov.cn/zwgk/zfxx/zxgk/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 17:28:34,864 com.crawler.CrawlerTask.getNewUrl(201) http://hbt.jl.gov.cn/zwgk/gwe/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 17:28:39,978 com.crawler.CrawlerTask.getNewUrl(201) http://www.hlipo.gov.cn/zxpt/tzgg/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.hlipo.gov.cn:80 [www.hlipo.gov.cn/219.147.168.50] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 17:29:06,939 com.crawler.CrawlerTask.getNewUrl(201) http://www.jshb.gov.cn/gsgg/ggtz/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 17:29:13,195 com.crawler.CrawlerTask.getNewUrl(201) http://www.qhfgw.gov.cn/gzdt/tzgg/default.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.qhfgw.gov.cn:80 [www.qhfgw.gov.cn/125.72.14.88] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 17:29:19,405 com.crawler.CrawlerTask.getNewUrl(201) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 17:29:54,826 com.crawler.CrawlerTask.getNewUrl(201) http://www.ynstc.gov.cn/tzgg/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 17:30:01,211 com.crawler.CrawlerTask.getNewUrl(201) http://www.sxipo.gov.cn/tzgg/index.jhtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 17:30:01,637 com.crawler.CrawlerTask.getNewUrl(201) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 17:30:06,188 com.crawler.CrawlerTask.getNewUrl(201) http://www.sccnt.gov.cn/xxggzwxx/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 521
+[crawler] ERROR 2017-09-20 17:30:11,326 com.crawler.CrawlerTask.getNewUrl(201) http://www.gzdpc.gov.cn/col/col3492/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 17:30:11,332 com.crawler.CrawlerTask.getNewUrl(201) http://www.ahkjt.gov.cn/technologi/zhxw/ana/A041701index_1.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 17:30:13,591 com.crawler.CrawlerTask.getNewUrl(201) http://www.ahbofcom.gov.cn/XXGK/TitleList.aspx?ClassCode=820000
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 17:30:26,412 com.crawler.CrawlerTask.getNewUrl(201) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 17:30:43,837 com.crawler.CrawlerTask.getNewUrl(201) http://www.xzgxt.gov.cn/CORAL/portal/zwgk/gkzn.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.xzgxt.gov.cn:80 [www.xzgxt.gov.cn/219.151.43.87] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 18:01:05,563 com.crawler.CrawlerTask.getNewUrl(201) http://e-nw.shac.gov.cn/xxgk/gsgg/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 18:01:35,641 com.crawler.CrawlerTask.getNewUrl(201) http://www.sdstc.gov.cn/gggs/index.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 18:01:43,991 com.crawler.CrawlerTask.getNewUrl(201) http://www.sdein.gov.cn/zxbs/gszx/jsxml_1599/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 18:02:01,145 com.crawler.CrawlerTask.getNewUrl(201) http://www.lnen.cn/zwgk/gsgg/index.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 18:02:21,920 com.crawler.CrawlerTask.getNewUrl(201) http://www.cqwhw.gov.cn/html/1/whzx/tzgg/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 500
+[crawler] ERROR 2017-09-20 18:02:33,379 com.crawler.CrawlerTask.getNewUrl(201) http://www.hlipo.gov.cn/zxpt/tzgg/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.hlipo.gov.cn:80 [www.hlipo.gov.cn/219.147.168.50] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 18:03:28,675 com.crawler.CrawlerTask.getNewUrl(201) http://www.hljwht.gov.cn/zwgk/zfxx/zxgk/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 18:03:31,432 com.crawler.CrawlerTask.getNewUrl(201) http://hbt.jl.gov.cn/zwgk/gwe/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 18:03:38,904 com.crawler.CrawlerTask.getNewUrl(201) http://www.gsep.gansu.gov.cn/smallclass.jsp?urltype=tree.TreeTempUrl&wbtreeid=1397
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 503
+[crawler] ERROR 2017-09-20 18:03:56,942 com.crawler.CrawlerTask.getNewUrl(201) http://www.jshb.gov.cn/gsgg/ggtz/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 18:04:04,570 com.crawler.CrawlerTask.getNewUrl(201) http://www.qhfgw.gov.cn/gzdt/tzgg/default.shtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.qhfgw.gov.cn:80 [www.qhfgw.gov.cn/125.72.14.88] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 18:04:19,062 com.crawler.CrawlerTask.getNewUrl(201) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 18:05:05,371 com.crawler.CrawlerTask.getNewUrl(201) http://www.ynstc.gov.cn/tzgg/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 18:05:26,641 com.crawler.CrawlerTask.getNewUrl(201) http://www.sxipo.gov.cn/tzgg/index.jhtml
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 18:05:33,582 com.crawler.CrawlerTask.getNewUrl(201) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 18:05:37,784 com.crawler.CrawlerTask.getNewUrl(201) http://edu.hainan.gov.cn/news/11
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to edu.hainan.gov.cn:80 [edu.hainan.gov.cn/36.101.208.162] failed: Connection timed out: connect
+[crawler] ERROR 2017-09-20 18:05:44,638 com.crawler.CrawlerTask.getNewUrl(201) http://www.sccnt.gov.cn/xxggzwxx/
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 521
+[crawler] ERROR 2017-09-20 18:06:32,034 com.crawler.CrawlerTask.getNewUrl(201) http://www.gzdpc.gov.cn/col/col3492/index.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 18:06:39,027 com.crawler.CrawlerTask.getNewUrl(201) http://www.ahkjt.gov.cn/technologi/zhxw/ana/A041701index_1.htm
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException: Unexpected response status: 404
+[crawler] ERROR 2017-09-20 18:06:42,844 com.crawler.CrawlerTask.getNewUrl(201) http://www.ahbofcom.gov.cn/XXGK/TitleList.aspx?ClassCode=820000
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+java.lang.NullPointerException
+[crawler] ERROR 2017-09-20 18:07:23,897 com.crawler.CrawlerTask.getNewUrl(201) 
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.client.ClientProtocolException
+[crawler] ERROR 2017-09-20 18:07:34,388 com.crawler.CrawlerTask.getNewUrl(201) http://www.xzgxt.gov.cn/CORAL/portal/zwgk/gkzn.html
+ÁÐ±íÒ³ÍøÂçÇëÇóÊý¾ÝÊ§°Ü£¡
+org.apache.http.conn.HttpHostConnectException: Connect to www.xzgxt.gov.cn:80 [www.xzgxt.gov.cn/219.151.43.87] failed: Connection timed out: connect
